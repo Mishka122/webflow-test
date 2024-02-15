@@ -1,4 +1,3 @@
-
-    document.querySelecotor('.block').addEventListener('click', () => {
-        console.log('hey')
-    })
+document.querySelector('.block').addEventListener('click', () => {
+    console.log('hey')
+})
